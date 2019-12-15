@@ -1,1 +1,4 @@
-"containers02" 
+"containers02" Netology, AJS-5
+===============================
+
+- Task: https://github.com/netology-code/ajs-homeworks/tree/master/containers
