@@ -1,3 +1,4 @@
+/* eslint-disable no-throw-literal */
 import { ErrorRepository } from './ErrorRepository';
 // eslint-disable-next-line import/prefer-default-export
 export class Team {
